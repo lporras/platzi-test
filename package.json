@@ -1,0 +1,21 @@
+{
+  "name": "platzitest",
+  "version": "1.0.0",
+  "description": "Pruebas unitarias con jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jest",
+    "pruebas",
+    "unitarias"
+  ],
+  "author": "Luis Porras <lporras16@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-jest": "^27.0.6",
+    "babel-polyfill": "^6.26.0",
+    "jest": "^27.0.6"
+  }
+}
