@@ -9,7 +9,7 @@ describe('Comparadores comunes', () => {
     lastname: 'Porras2'
   };
 
-  test('igualdad de elementos', () => {
+  xtest('igualdad de elementos', () => {
     expect(user).toEqual(user2);
   });
   test('no son exactamente iguales', () => {
