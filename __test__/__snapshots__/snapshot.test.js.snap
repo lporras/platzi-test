@@ -2,8 +2,8 @@
 
 exports[`Es hora de las instantaneas Siempre fallará la instantanea 1`] = `
 Object {
-  "createdAt": 2021-07-21T22:34:46.713Z,
-  "id": 15,
+  "createdAt": 2021-07-21T22:37:09.601Z,
+  "id": 10,
 }
 `;
 
@@ -13,5 +13,12 @@ Object {
   "id": 1,
   "name": "Rick Sanchez",
   "status": "Alive",
+}
+`;
+
+exports[`Es hora de las instantaneas Tenemos una excepcion dentro del código 1`] = `
+Object {
+  "id": Any<Number>,
+  "name": "Luis Porras",
 }
 `;
